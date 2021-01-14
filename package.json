@@ -1,0 +1,28 @@
+{
+  "name": "hdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waswas214/hdiscord.git"
+  },
+  "author": "Laurynas Minelga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waswas214/hdiscord/issues"
+  },
+  "homepage": "https://github.com/waswas214/hdiscord#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1"
+  },
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  }
+}
